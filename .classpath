@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-26">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.base.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.controls.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.fxml.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.graphics.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.media.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.swing.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx.web.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/javafx-swt.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/jdk.jsobject.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/jfx.incubator.input.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/MASI/Projet/javafx-sdk-26/lib/jfx.incubator.richtext.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="c:/Learning/IIT/2nd Year/2nd Semester/Projects/Masi/lib/mysql-connector-j-9.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
