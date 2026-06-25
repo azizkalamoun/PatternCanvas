@@ -7,7 +7,9 @@
 The primary purpose of this project is to serve as a practical, code-first demonstration of **software design patterns** and **object-oriented design principles** within a real JavaFX application. It is intended for software engineering students, instructors, and professional Java developers studying design patterns in a desktop GUI context.
 ---
 ## Demo
+
 https://github.com/user-attachments/assets/b3b01c82-1479-46ec-80a2-7644dc25a9dd
+
 ---
 ## Objectives
 
