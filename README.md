@@ -5,6 +5,7 @@
 **PatternCanvas** is a JavaFX-based vector drawing application that allows users to create, delete, and persist geometric shapes (rectangles, lines, and circles) on a canvas. It supports undo/redo, color selection, an eraser tool, and database persistence with named drawings.
 
 The primary purpose of this project is to serve as a practical, code-first demonstration of **software design patterns** and **object-oriented design principles** within a real JavaFX application. It is intended for software engineering students, instructors, and professional Java developers studying design patterns in a desktop GUI context.
+
 ---
 ## Demo
 
